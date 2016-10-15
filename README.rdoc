@@ -1,25 +1,12 @@
-== README
+== Bienvenido a Ojalabook
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Proyecto de la creación de una red social en Rails 4 desde 0.
 
-Things you may want to cover:
+Cosas a considerar:
 
-* Ruby version
+* Ruby v:2.2.4p230
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Rails v:4.2.5.1
 
 * ...
 
